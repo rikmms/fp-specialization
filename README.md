@@ -1,1 +1,1 @@
-# functional-programming-specialization
+# fp-specialization
